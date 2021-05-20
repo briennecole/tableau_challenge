@@ -2,3 +2,5 @@
 
 #### By: Brienne Cole
 ----------------------------------------------------------
+### Introduction
+#### Task and Objectives:
