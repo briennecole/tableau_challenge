@@ -4,7 +4,9 @@
 ----------------------------------------------------------
 ### Introduction
 #### Task and Objectives:
-Track changes and find trends across 4 years of citibike data regarding the following questions/objectives:
+As the new lead analyst for the New York Citi Bike Program, I am now responsible for overseeing the largest bike sharing program in the United States. In my new role, I will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+
+I will use this initial data story to track changes and find trends across 4 years of citibike data regarding the following questions/objectives:
 - Which stations have the highest traffic and why? Has this changed over time, why and how can we use these trends to predict future trends?
 - Who are our customers and where do we have opportunities to increase awareness and accessibility?
 - Track peak riding times to assist with business operations planning
