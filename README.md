@@ -34,3 +34,8 @@ https://public.tableau.com/profile/brienne.cole#!/vizhome/NYCCitiBikeTripData/ci
 
 
 <img width="1440" alt="Screen Shot 2021-05-22 at 12 29 02 PM" src="https://user-images.githubusercontent.com/75045133/119239491-4068c680-bafe-11eb-8f3f-699fd477f3ee.png">
+
+
+
+
+<img width="1440" alt="Screen Shot 2021-05-22 at 12 29 25 PM" src="https://user-images.githubusercontent.com/75045133/119239504-5fffef00-bafe-11eb-8fae-70722ea03373.png">
