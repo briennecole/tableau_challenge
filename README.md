@@ -29,6 +29,6 @@ https://public.tableau.com/profile/brienne.cole#!/vizhome/NYCCitiBikeTripData/ci
 
 
 
-
+![Screen Shot 2021-05-22 at 1 32 37 PM (2)](https://user-images.githubusercontent.com/75045133/119240139-c4bd4880-bb02-11eb-996a-5ebc8196912e.png)
 
 
