@@ -18,3 +18,6 @@ https://s3.amazonaws.com/tripdata/index.html
 - 201907-citibike-tripdata.csv
 - 202007-citibike-tripdata.csv
 
+### Analysis
+#### Link to Tableau Public Workbook
+https://public.tableau.com/profile/brienne.cole#!/vizhome/NYCCitiBikeTripData/citibikeUserStory
