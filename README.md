@@ -42,5 +42,7 @@ Also interesting to note, women ride longer on average than men. Are they riding
 ![Screen Shot 2021-05-22 at 1 32 51 PM (2)](https://user-images.githubusercontent.com/75045133/119240158-de5e9000-bb02-11eb-9188-f1a172ff0565.png)
 
 
+Until 2020, subscribers made up over 80% of our riders and about 66% were male. It wouldn't surprise anyone that ridership dropped in 2020 as offices closed and people worked from home more. As is logical, number of subscribers dropped in 2020 as the future was so uncertain - but they didn't necessarily go away entirely. Non-subscribing customers increased by over 50% from 2019. Some of them could have been former subscribers but they could also have been people who used it as alternate transportation to their usual subway or cabs. Lastly and interestingly, we actually saw an increase in female riders in 2020 by over 16% from 2019.
+
 
 ![Screen Shot 2021-05-22 at 1 32 58 PM (2)](https://user-images.githubusercontent.com/75045133/119240185-f46c5080-bb02-11eb-9918-0c64ed8be55e.png)
